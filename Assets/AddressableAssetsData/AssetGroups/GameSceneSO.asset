@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameSceneSO
+  m_EditorClassIdentifier: 
+  m_GroupName: GameSceneSO
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4df2eed91bfa7a8409957e502a74dd4c
+  m_SerializeEntries:
+  - m_GUID: 896c992a1866fa641a858df3c209f5f4
+    m_Address: Forest1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0391614afa35b54a9a4b0113193d2e5
+    m_Address: Forest2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0df9ac56fdb25ce4b963d9ea660b7a6b
+    m_Address: Forest3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4cdf4759af865d46b8dd5d3012ec97d
+    m_Address: House1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ff599be29ccca54e915e8743f35e220
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8a879a1f5948244e814c463726fb716
+    m_Address: Persistent
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 826e42444a9359847baa2f83b24bf4dc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 557adb4c0c7b28245bd8aa5dbc00f876, type: 2}
+    - {fileID: 11400000, guid: 0f163833d6cf5384789b27386ec4e286, type: 2}

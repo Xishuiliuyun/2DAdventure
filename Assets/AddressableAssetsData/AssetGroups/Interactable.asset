@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Interactable
+  m_EditorClassIdentifier: 
+  m_GroupName: Interactable
+  m_Data:
+    m_SerializedData: []
+  m_GUID: de32329169855f24493c733c49eeb223
+  m_SerializeEntries:
+  - m_GUID: 17e57a163a0573940936095bd93b3825
+    m_Address: HPBottle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a456ed7095f14a449b4e7eefa6ac28e
+    m_Address: NPC
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cec4b44c251aad648b5eabcc76a12875
+    m_Address: Chest
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9a48c0cf966df94e9b4bf0a8f391644
+    m_Address: AbilityStone
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f132a0d763c0f8f468cbecb87f5121be
+    m_Address: Key
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcd5ca965eef6154e947a616eb847c02
+    m_Address: Bookshelf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 826e42444a9359847baa2f83b24bf4dc, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c68bde1b4462e4d4e9264cbde5eb9a39, type: 2}
+    - {fileID: 11400000, guid: 1de788f8ea064a34d852ae05555515f8, type: 2}
