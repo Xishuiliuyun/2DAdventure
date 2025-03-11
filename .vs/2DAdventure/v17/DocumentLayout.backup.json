@@ -3,15 +3,55 @@
   "WorkspaceRootPath": "E:\\UnityObject\\2DAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\utilities\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|e:\\unityobject\\2dadventure\\assets\\scripts\\interactable\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\bookshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|e:\\unityobject\\2dadventure\\assets\\scripts\\interactable\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|e:\\unityobject\\2dadventure\\assets\\scripts\\interactable\\hpbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\hpbottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\enemy\\hpcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hpcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|e:\\unityobject\\2dadventure\\assets\\scripts\\interactable\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactable\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|e:\\unityobject\\2dadventure\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\ui\\playerstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\settingseffect_btnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingseffect_btnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\buttonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\buttonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\settings\\inputsystem\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\settings\\inputsystem\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\generalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\generalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|e:\\unityobject\\2dadventure\\assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -67,18 +107,6 @@
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boar\\boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\settingseffect_btnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingseffect_btnsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\settings\\inputsystem\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\settings\\inputsystem\\playerinputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\buttonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\buttonsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\settingseffect_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingseffect_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -127,20 +155,12 @@
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\settingseffect_float.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\ui\\playerstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerstatebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\settings\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settings\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\enemy\\hpcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hpcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\general\\showdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,10 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\saveload\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\saveload\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\utilities\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilities\\cameracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{268CE8B5-D1D3-87F1-5136-ADD664A907F7}|Assembly-CSharp.csproj|E:\\UnityObject\\2DAdventure\\assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -190,11 +206,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "DataManager.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\SaveLoad\\DataManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\DataManager.cs",
@@ -207,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -220,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Enums.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Utilities\\Enums.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Enums.cs",
@@ -233,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Constants.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Utilities\\Constants.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\Constants.cs",
@@ -246,13 +262,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "UIManager.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
               "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\UI\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
-              "ViewState": "AgIAAEMCAAAAAAAAAADwvzgCAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAqwM4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T11:36:58.9Z",
               "IsPinned": true,
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "Data.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\SaveLoad\\Data.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\Data.cs",
@@ -273,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Enemy.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
@@ -286,20 +302,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 7,
               "Title": "PlayerStateBar.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\UI\\PlayerStateBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerStateBar.cs",
               "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\UI\\PlayerStateBar.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerStateBar.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAALYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T16:28:58.453Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Character.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\General\\Character.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
@@ -312,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "Ability.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Player\\Ability.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Ability.cs",
@@ -325,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "SceneLoader.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Transition\\SceneLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\SceneLoader.cs",
@@ -338,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "ScreenManager.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\ScreenManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\ScreenManager.cs",
@@ -351,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "InitalLoad.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Transition\\InitalLoad.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Transition\\InitalLoad.cs",
@@ -364,20 +381,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 0,
               "Title": "CameraControl.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Utilities\\CameraControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utilities\\CameraControl.cs",
               "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Utilities\\CameraControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\Utilities\\CameraControl.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAADwv4QAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwEgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T06:49:39.591Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "SettingsEffect_Enum.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\SettingsEffect_Enum.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsEffect_Enum.cs",
@@ -390,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Menu.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\UI\\Menu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
@@ -403,33 +421,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "SettingsEffect_BtnSettings.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\SettingsEffect_BtnSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsEffect_BtnSettings.cs",
               "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\SettingsEffect_BtnSettings.cs",
               "RelativeToolTip": "Assets\\Scripts\\Settings\\SettingsEffect_BtnSettings.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAABIwIYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAcwIYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T09:36:26.951Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "ButtonSettings.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\ButtonSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\ButtonSettings.cs",
               "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\ButtonSettings.cs",
               "RelativeToolTip": "Assets\\Scripts\\Settings\\ButtonSettings.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T15:36:57.76Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "ScreenSettings.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\ScreenSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\ScreenSettings.cs",
@@ -442,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "AbilityStone.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\AbilityStone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\AbilityStone.cs",
@@ -455,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "SettingsEffect_Enum_BtnArea.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\SettingsEffect_Enum_BtnArea.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsEffect_Enum_BtnArea.cs",
@@ -468,7 +488,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 1,
+              "Title": "Bookshelf.cs",
+              "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Bookshelf.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Bookshelf.cs",
+              "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Bookshelf.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\Bookshelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:38:23.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Chest.cs",
+              "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Chest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\Chest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:38:18.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HPBottle.cs",
+              "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\HPBottle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\HPBottle.cs",
+              "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\HPBottle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\HPBottle.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:38:00.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Key.cs",
+              "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Key.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Key.cs",
+              "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Key.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactable\\Key.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T11:34:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HPControl.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Enemy\\HPControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\HPControl.cs",
@@ -476,11 +548,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\HPControl.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAuwGoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T05:12:39.845Z"
+              "WhenOpened": "2024-12-31T05:12:39.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "PhysicsCheck.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\General\\PhysicsCheck.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\PhysicsCheck.cs",
@@ -488,12 +561,11 @@
               "RelativeToolTip": "Assets\\Scripts\\General\\PhysicsCheck.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAewAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-11T16:00:51.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:00:51.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "BoarChaseState.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Enemy\\Boar\\BoarChaseState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boar\\BoarChaseState.cs",
@@ -505,19 +577,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "PlayerInputController.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Settings\\InputSystem\\PlayerInputController.cs",
               "RelativeDocumentMoniker": "Assets\\Settings\\InputSystem\\PlayerInputController.cs",
               "ToolTip": "E:\\UnityObject\\2DAdventure\\Assets\\Settings\\InputSystem\\PlayerInputController.cs",
               "RelativeToolTip": "Assets\\Settings\\InputSystem\\PlayerInputController.cs",
-              "ViewState": "AgIAAIgEAAAAAAAAAAAYwJ4EAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4EAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T09:40:53.226Z"
+              "WhenOpened": "2025-01-07T09:40:53.226Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "GeneralSettings.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\GeneralSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\GeneralSettings.cs",
@@ -525,12 +598,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Settings\\GeneralSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T04:40:31.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T04:40:31.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "CollectionData.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\SaveLoad\\CollectionData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\CollectionData.cs",
@@ -542,7 +614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "Boar.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Enemy\\Boar\\Boar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boar\\Boar.cs",
@@ -554,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "VolumeSettings.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\VolumeSettings.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\VolumeSettings.cs",
@@ -566,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Tips.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Interactable\\Tips.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interactable\\Tips.cs",
@@ -578,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "SettingsTips.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\SettingsTips.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsTips.cs",
@@ -590,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ReadOnlyArray.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\ReadOnlyArray.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@1.7.0\\InputSystem\\Utilities\\ReadOnlyArray.cs",
@@ -602,7 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "AudioDefination.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Audio\\AudioDefination.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioDefination.cs",
@@ -614,7 +686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "FixTextMeshProComponents.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Fonts\\FixTextMeshProComponents.cs",
               "RelativeDocumentMoniker": "Assets\\Fonts\\FixTextMeshProComponents.cs",
@@ -626,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "AddressablesImpl.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.addressables@1.21.21\\Runtime\\AddressablesImpl.cs",
@@ -638,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "SettingsEffect_Float.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\SettingsEffect_Float.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\SettingsEffect_Float.cs",
@@ -650,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Sign.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Player\\Sign.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sign.cs",
@@ -662,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "ShowDamage.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\General\\ShowDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\General\\ShowDamage.cs",
@@ -674,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "Light2DManager.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\2D\\Light2DManager.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@16.0.5\\Runtime\\2D\\Light2DManager.cs",
@@ -686,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Audio\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManager.cs",
@@ -698,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "FadeEventSO.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FadeEventSO.cs",
@@ -710,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "SnailHideState.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Enemy\\Snail\\SnailHideState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Snail\\SnailHideState.cs",
@@ -722,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "GeneralSettings_old.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\Settings\\GeneralSettings_old.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Settings\\GeneralSettings_old.cs",
@@ -734,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\SaveLoad\\PlayerData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SaveLoad\\PlayerData.cs",
@@ -746,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "CharacterEventSO.cs",
               "DocumentMoniker": "E:\\UnityObject\\2DAdventure\\Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\CharacterEventSO.cs",
